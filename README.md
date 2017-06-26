@@ -1,3 +1,3 @@
 # vim
 
-My .vimrc cofiguration
+My .vimrc 
