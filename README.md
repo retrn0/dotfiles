@@ -1,3 +1,3 @@
-# vim
+# dot files
 
-My .vimrc 
+dot files
